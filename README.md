@@ -3,7 +3,7 @@ This Repo will be used to create a Adoptable Terraform Multi Cloud Framework whi
 
 # open terminal and Login to Azure
 
-az login -u student-1252-699138@labscloudacademy.onmicrosoft.com -p Ca1_0IBNVcyO
+az login -u ***********-p ********
 
 cd test
 
